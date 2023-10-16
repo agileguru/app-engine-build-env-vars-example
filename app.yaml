@@ -32,3 +32,5 @@ resources:
     size_gb: 0.5
 env_variables:
   FOO: BAR
+build_env_variables:
+  FOO: BAR
